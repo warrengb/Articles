@@ -1,5 +1,5 @@
 
-# Trog.NET Articles
+# ***[Trog.NET](https://trog.net)*** Articles
 
 * Trog.NET is a series of .NET developer articles exploring Microsoft's .NET6 technologies.
 * Subject matter objectives focus on application design, development patterns and solution architectures.
@@ -30,7 +30,7 @@ and [MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui)
  ***Article 2***  
 
 ## &emsp;&emsp;[Blazor Typescript Interop](https://trog.net/BazorMVU)
-&emsp;&emsp;&emsp;![ScreenShot](images/tsinterop.png)
+![ScreenShot](images/tsinterop.png)
 
 &emsp;&emsp;
 Blazor Typescript Interop is an elegant way to interface your 
