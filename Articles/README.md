@@ -15,7 +15,7 @@
 #  
  ***Article 1***  
 
-## &emsp;&emsp;[Blazor MVU](https://trog.net/readme/BazorMVU)
+## &emsp;&emsp;[Blazor MVU](https://trog.net/Articles/BlazorMVU)
 
 ![ScreenShot](images/blazormvu.png)
 
@@ -29,7 +29,7 @@ and [MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui)
 #  
  ***Article 2***  
 
-## &emsp;&emsp;[Blazor Typescript Interop](https://trog.net/readme/BazorMVU)
+## &emsp;&emsp;[Blazor Typescript Interop](https://trog.net/readme/BazorTSInterop)
 ![ScreenShot](images/tsinterop.png)
 
 &emsp;&emsp;
