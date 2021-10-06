@@ -15,7 +15,7 @@
 #  
  ***Article 1***  
 
-## &emsp;&emsp;[Blazor MVU](https://trog.net/BazorMVU)
+## &emsp;&emsp;[Blazor MVU](https://trog.net/readme/BazorMVU)
 
 ![ScreenShot](images/blazormvu.png)
 
@@ -29,15 +29,15 @@ and [MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui)
 #  
  ***Article 2***  
 
-## &emsp;&emsp;[Blazor Typescript Interop](https://trog.net/BazorMVU)
+## &emsp;&emsp;[Blazor Typescript Interop](https://trog.net/readme/BazorMVU)
 ![ScreenShot](images/tsinterop.png)
 
 &emsp;&emsp;
-Blazor Typescript Interop is an elegant way to interface your 
-Blazor C# WebAssembly (Wasm) with the browsers JavaScript API and JavaScript libraries.
-Interop is neccessary because Wasm can't reach outside the browser security sandbox. 
-As there is no direct communication between Wasm and the browser JavaScript API.
-This article starts with JavaScript interop then progresses to TypeScript interop. 
+Blazor Typescript Interop is an elegant way to interface your Blazor C# WebAssembly (Wasm).  
+With the browsers JavaScript API and JavaScript libraries.  
+Interop is neccessary because Wasm can't reach outside the browser security sandbox.   
+As there is no direct communication between Wasm and the browser JavaScript API.  
+This article starts with JavaScript interop then progresses to TypeScript interop.   
 
 #  
 &copy; Copyright 2021 Warren Browne 
